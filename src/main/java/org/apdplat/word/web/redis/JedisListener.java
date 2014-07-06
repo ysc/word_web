@@ -15,7 +15,7 @@ import redis.clients.jedis.JedisPoolConfig;
  */
 public class JedisListener implements ServletContextListener {
     private static final Logger LOGGER = LoggerFactory.getLogger(JedisListener.class);
-    public static JedisPool jedisPool;
+    private JedisPool jedisPool;
 
     @Override
     public void contextInitialized(ServletContextEvent sce) {
