@@ -15,3 +15,5 @@
    [1、Java分布式中文分词组件：word分词](https://github.com/ysc/word)
    
    [2、Java开源项目cws_evaluation：中文分词器分词效果评估](https://github.com/ysc/cws_evaluation/)
+
+[https://github.com/ysc/word_web](https://github.com/ysc/word_web)
