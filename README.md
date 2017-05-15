@@ -1,4 +1,4 @@
-##通过web服务器对word分词的资源进行集中统一管理
+## 通过web服务器对word分词的资源进行集中统一管理
    
     1、分词词典管理   
     2、停用词管理
@@ -8,9 +8,9 @@
     6、二元模型管理
     7、三元模型管理
 
-##[捐赠致谢](https://github.com/ysc/QuestionAnsweringSystem/wiki/donation)
+## [捐赠致谢](https://github.com/ysc/QuestionAnsweringSystem/wiki/donation)
 	
-##相关链接：
+## 相关链接：
 
    [1、Java分布式中文分词组件：word分词](https://github.com/ysc/word)
    
